@@ -1,12 +1,44 @@
-- 👋 Hi, I’m @Beatrice1333
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!DOCTYPE html>
+<html lang="eng">
+<head> 
+    <title> E-Commerce Platforms </title>
+</head>
+<table>
+<tr>
+    <th> Name of E-commerce platform </th>
 
-<!---
-Beatrice1333/Beatrice1333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <th> Form of E-Commerce </th>
+
+</tr>
+<tr>
+    <ol type ="i">
+        <li> Jumia </li>
+        <li> Kilimall </li>
+        <li> Alibaba </li>
+        <li> Amazon </li>
+
+    </ol>
+    <ul> 
+        <li> B2B </li>
+        <li> B2C</li>
+        <li> C2C </li>
+        <li> G2B </li>
+
+
+    </ul>
+</tr>
+<tr>
+    <dl>
+        <dt> Digital Products </dt>
+            <dd> Softwares</dd>
+            <dd> Music </dd>
+            <dd> Video Clips </dd>
+
+
+    </dl>
+
+
+</tr>
+
+</table>
+</html>
